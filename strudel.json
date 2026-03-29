@@ -1,5 +1,16 @@
 {
   "_base": "https://fetlewondimu-prog.github.io/codejam/",
+  "aquar": [
+    "aquar/aquarium_filter_24sec.wav",
+    "aquar/aquarium_pee_33sec.wav",
+    "aquar/aquarium_water_pumo_trickle.m4a",
+    "aquar/bbc_aquarium_long.mp3"
+  ],
+  "bubb": [
+    "bubb/bubble_2_rhythm_13sec.wav",
+    "bubb/bubbles_1.wav",
+    "bubb/bubbles_short.wav"
+  ],
   "cica": [
     "cica/cic-1.wav",
     "cica/cic-2.wav"
@@ -19,6 +30,22 @@
     "extra/opia-1.wav",
     "extra/sword-1.wav",
     "extra/texture_16.wav"
+  ],
+  "fish_d": [
+    "fish_d/fish_dawn_chorus.wav"
+  ],
+   "fizz": [
+    "fizz/fizz_1_mid_26sec.wav",
+     "fizz/fizz_2_intensify_42sec.wav"
+  ],
+  "shef": [
+    "shef/sheffield_drone.wav"
+  ],
+  "swarm": [
+    "swarm/swarm_bee.wav"
+  ],
+   "whale_s": [
+    "whale_s/whale_song.wav"
   ],
   "wsaw": [
     "wsaw/wobsaw_1.wav",
