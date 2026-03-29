@@ -31,6 +31,15 @@
     "extra/sword-1.wav",
     "extra/texture_16.wav"
   ],
+  "f_break": [
+    "f_break/10_break.wav",
+    "f_break/11_break.wav",
+    "f_break/12_break.wav",
+    "f_break/13_break.wav",
+    "f_break/14_break.wav",
+    "f_break/15_Deep Rolling Break.caf",
+    "f_break/16_Deep Snare Break.caf"
+  ],
   "fish_d": [
     "fish_d/fish_dawn_chorus.wav"
   ],
