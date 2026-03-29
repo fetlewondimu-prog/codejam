@@ -1,0 +1,29 @@
+{
+  "_base": " https://fetlewondimu-prog.github.io/codejam/",
+  "cica": [
+    "cic-1.wav",
+    "cic-2.wav"
+  ],
+  "del": [
+    "del_1.wav",
+    "del_2.wav",
+    "del_3.wav"
+  ],
+  "dhol": [
+    "dhol_0.wav",
+    "dhol_1.wav",
+    "dhol_2.wav"
+  ],
+  "extra": [
+    "cdt_fx_analog_shot.wav",
+    "opia-1.wav",
+    "sword-1.wav",
+    "texture_16.wav"
+  ],
+  "wsaw": [
+    "wobsaw_1.wav",
+    "wobsaw_2.wav",
+    "wobsaw_3.wav",
+    "wobsaw_4.wav"
+  ]
+}
