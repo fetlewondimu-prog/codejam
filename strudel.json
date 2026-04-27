@@ -53,6 +53,27 @@
     "fizz/fizz_1_mid_26sec.wav",
      "fizz/fizz_2_intensify_42sec.wav"
   ],
+    "nu_vox": [
+    "nu_vox/A_lo_hum_21.wav",
+    "nu_vox/breath_06.wav",
+    "nu_vox/C_hum_14.wav",
+    "nu_vox/Eb_hum_13.wav"
+  ],
+    "rnb": [
+    "rnb/01_love_vox_cmin_100bpm.mp3",
+    "rnb/02_maxwell_bell.mp3",
+    "rnb/03_jjjjerome_laugh.wav",
+    "rnb/03_yolanda_1.wav",
+    "rnb/04_yolanda_2.wav",
+    "rnb/04_yolanda_3.wav",
+    "rnb/05_yolanda_4.wav",
+    "rnb/06_yolanda5.wav",
+    "rnb/07yolanda6.wav",
+    "rnb/08yolanda7.wav",
+    "rnb/09yolanda8.wav",
+    "rnb/A_lo_hum_21.wav",
+    "rnb/11Lovesetsyoufree_drums_94bpm.wav"
+  ],
   "shef": [
     "shef/sheffield_drone.wav"
   ],
