@@ -55,9 +55,9 @@
   ],
     "nu_vox": [
     "nu_vox/A_lo_hum_21.wav",
-    "nu_vox/breath_06.wav",
     "nu_vox/C_hum_14.wav",
-    "nu_vox/Eb_hum_13.wav"
+    "nu_vox/Eb_hum_13.wav",
+    "nu_vox/breath_06.wav"
   ],
     "rnb": [
     "rnb/01_love_vox_cmin_100bpm.mp3",
